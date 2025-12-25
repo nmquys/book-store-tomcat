@@ -1,4 +1,4 @@
-# BookShopWeb
+# book-store-web
 
 Dự án Java Web xây dựng một Shop Bán Sách
 
@@ -62,4 +62,5 @@ Theo mặc định:
 - MySQL Workbench 8.0
 - Tomcat 10.1 trở lên (Vì dưới 10.1 sẽ bị lỗi thư viện)
 - Oracle OpenJDK 23.0.2 (MS JDK 11 sẽ bị lỗi)
+
 
